@@ -1,0 +1,15 @@
+Build a simple weather prediction model
+Tell us whether the temperature will go up or down the next day
+Collect and format data
+    - download historic data for us to use
+    - format the data for feed into the model
+    - build train and test sets and assign labels
+Build model in pycharm
+    - Mimic the simple linear regression model seen before
+    - Train, test, and evaluate the model
+    - Save trained values to a protobuf file
+Build the android app
+    - Set up the android project
+    - Build and connect the UI
+    - Write the backend code
+    - Display results and test model
